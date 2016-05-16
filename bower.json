@@ -1,0 +1,23 @@
+{
+  "name": "directive-tooltip",
+  "description": "Custom angular tooltip directive",
+  "main": "app.js",
+  "authors": [
+    "Peter Lollo <peteralollo@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Peterlollo/directive-tooltip",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "angular": "^1.5.5",
+    "angular-route": "^1.5.5"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "directive-tooltip",
+  "version": "1.0.0",
+  "description": "Custom angular tooltip directive",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peterlollo/directive-tooltip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peterlollo/directive-tooltip/issues"
+  },
+  "homepage": "https://github.com/Peterlollo/directive-tooltip#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
